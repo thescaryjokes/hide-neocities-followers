@@ -1,0 +1,6 @@
+.stats .stat:nth-child(2) {
+    display: none;
+}
+.col-50 div:nth-child(2) {
+    display: none;
+}
